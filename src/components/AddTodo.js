@@ -8,7 +8,7 @@ const AddTodo = () => {
       <input
         type="text"
         placeholder="Enter your todo"
-        className="w-3/5 h-9 pl-4 border-2 rounded-s-xl"
+        className="w-3/5 h-9 pl-4 border-2 rounded-s-xl focus:outline-none"
       />
 
       <CategorizeTask />

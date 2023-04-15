@@ -7,7 +7,7 @@ const CategorizeTask = () => {
       <select
         name="categorize"
         id="categorize"
-        className="h-9 border-2 rounded-e-xl pl-1 text-gray-800"
+        className="h-9 border-2 rounded-e-xl pl-1 text-gray-800 focus:outline-none cursor-pointer"
       >
         <option value="" disabled className="text-gray-800">
           Select

@@ -8,7 +8,7 @@ import Container from "./components/Container";
 
 const App = () => {
   return (
-    <div className="w-full h-screen bg-emerald-200 flex justify-center items-center">
+    <div className="w-full h-screen bg-indigo-200 flex justify-center items-center">
       <Container />
     </div>
   );
