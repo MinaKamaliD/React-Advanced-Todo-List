@@ -1,10 +1,6 @@
 import React from "react";
-// import { Fragment } from "react";
-import Container from "./components/Container";
-// import ShowCategory from "./components/ShowCategory";
-// import AddTodo from "./components/AddTodo";
-// import CategorizeTask from "./components/CategorizeTask";
-// import Button from "./components/Button";
+
+import Container from "./components/Container/Container";
 
 const App = () => {
   return (

@@ -1,9 +1,9 @@
 import React from "react";
-import Image from "./Image";
+import Image from "../../Assets/Image";
 
 const ShowCategory = () => {
   return (
-    <div className="flex flex-col row-span-2 bg-white col-span-3">
+    <div className="flex flex-col row-span-full bg-white col-span-3">
       <Image />
       <div className="flex ml-10">
         <input

@@ -1,7 +1,6 @@
 import React from "react";
-import { Fragment } from "react";
 
-const CategorizeTask = () => {
+const CategorizeTodo = () => {
   return (
     <div>
       <select
@@ -35,4 +34,4 @@ const CategorizeTask = () => {
   );
 };
 
-export default CategorizeTask;
+export default CategorizeTodo;

@@ -1,9 +1,8 @@
 import React from "react";
-import { Fragment } from "react";
 
-const Button = () => {
+const AddTodoButton = () => {
   return (
-    <div className=" col-start-4 col-span-7">
+    <div className=" col-start-4 col-span-7 flex items-center">
       <button className="h-9 ">
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -24,4 +23,4 @@ const Button = () => {
   );
 };
 
-export default Button;
+export default AddTodoButton;
